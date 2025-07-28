@@ -37,7 +37,7 @@ What I did:
 
 🌸 Sprinkled some style and comments throughout the code — both for learning and a little personality
 
-You can find all that inside the ass1-mvcmovie/ folder.
+You can find all that inside the task1-mvcmovie/ folder.
 
 💡 Why this repo?
 Well, when I look back later, I’ll see the whole journey — mistakes, wins, and little comments like: 
