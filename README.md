@@ -8,10 +8,10 @@ This is my little coding corner for everything HIT339 this semester — assignme
 
 | Folder | What it’s for |
 |--------|----------------|
-| `ass1-mvcmovie/` | Assessment 1: Microsoft’s MvcMovie tutorial (the original) + my own scrapbook-style twist 💖 |
+| `task1-mvcmovie/` | task 1: Microsoft’s MvcMovie tutorial (the original) + my own scrapbook-style twist 💖 |
 | `labs/` | Where I’ll pop in any weekly exercises or class demos |
 | `docs/` | Notes, screenshots, flowcharts, or random thoughts that helped me along the way |
-| `ass2-*` | Reserved for the next big thing (when it drops!) |
+| `ass1-*` | Reserved for the next big thing (when it drops!) |
 
 > I’ll keep this list updated as the semester rolls along — one commit at a time.
 
@@ -25,7 +25,7 @@ cd s361662-HIT339/ass1-mvcmovie
 dotnet restore
 dotnet watch run
 
-🧵 About Assessment 1
+🧵 About task 1 Week-1
 This one’s based on the official Microsoft tutorial:
 👉 Get started with ASP.NET Core MVC
 

@@ -1,0 +1,19 @@
+# Visual Studio workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code workspace files
+.vscode/
+
+# Build outputs
+bin/
+obj/
+
+# SQLite DB used by VS
+*.sqlite
+
+# VS global state
+VSWorkspaceState.json
