@@ -21,7 +21,7 @@ This is my little coding corner for everything HIT339 this semester — assignme
 
 ```bash
 git clone https://github.com/s361662/s361662-HIT339.git
-cd s361662-HIT339/ass1-mvcmovie
+cd s361662-HIT339/task1-mvcmovie
 dotnet restore
 dotnet watch run
 
